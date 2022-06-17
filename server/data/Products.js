@@ -1,0 +1,58 @@
+const products = [
+  {
+    name: "Black Bomber Jacket",
+    image: "/images/6.png",
+    description: "Good Condition 9/10",
+    price: 50000,
+    countInStock: 3,
+    rating: 4,
+    numReviews: 4,
+  },
+  {
+    name: "Velcro",
+    image: "/images/5.png",
+    description: "Good Condition 9/10",
+    price: 65000,
+    countInStock: 10,
+    rating: 2,
+    numReviews: 2,
+  },
+  {
+    name: "Street",
+    image: "/images/4.png",
+    description: "Good Condition 8/10",
+    price: 45000,
+    countInStock: 0,
+    rating: 3.5,
+    numReviews: 3,
+  },
+  {
+    name: "Khaki",
+    image: "/images/3.png",
+    description: "Good Condition 9/10",
+    price: 55000,
+    countInStock: 10,
+    rating: 5,
+    numReviews: 9,
+  },
+  {
+    name: "Black3",
+    image: "/images/2.png",
+    description: "Good Condition 9/10",
+    price: 49000,
+    countInStock: 7,
+    rating: 2,
+    numReviews: 2,
+  },
+  {
+    name: "Yel",
+    image: "/images/1.png",
+    description: "Good Condition 9/10",
+    price: 35000,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+  },
+];
+
+export default products;
